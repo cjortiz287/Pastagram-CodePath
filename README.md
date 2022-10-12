@@ -26,4 +26,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://recordit.co/rssiffh2k6
+https://recordit.co/NjWrLoOgmz
